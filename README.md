@@ -25,3 +25,15 @@
 * Seine River Cross 
 
 [AboutME](AboutMe.md)
+
+---- 
+### __Best Cities to visit in Europe__
+Attracting over half of the world’s tourists each and every year, Europe is home to some of the most important, impressive and influential cities on Earth. Renowned around the world for their age-old historic sights and fabulous art and architecture, Europe’s cities really are a delight to visit. With lots of excellent bars, restaurants, shops, and museums wherever you go, its many stunning sights are perfectly complemented by thriving culinary and nightlife scenes. 
+
+| City | Important Location | Time spend in location (days) |
+| --- | --- | ---: |
+| London | Buckingham Palace | 1 day |
+| Paris | Eiffel Tower | 1 day  |
+| Prague |  Saint Vitus Cathedral | 1 day  |
+| Amsterdam | The Westertoren | 1 day  |
+| Barcelona | Sagrada Familia | 1 day |
