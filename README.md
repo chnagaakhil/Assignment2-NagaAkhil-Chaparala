@@ -37,3 +37,15 @@ Attracting over half of the world’s tourists each and every year, Europe is ho
 | Prague |  Saint Vitus Cathedral | 1 day  |
 | Amsterdam | The Westertoren | 1 day  |
 | Barcelona | Sagrada Familia | 1 day |
+
+---------
+### __My Favourite Quotes__
+> Any Sufficient advanced technology is indistinguishable from magic.
+>> _Arthur C Clarke_
+
+>Nothing vast enters the life of mortals without a curse
+>> _Sophocles_
+
+>If you're not paying for the product, then you are the product
+>> _Daniel Hovermann_
+
